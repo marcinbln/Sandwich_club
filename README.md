@@ -1,8 +1,10 @@
-# Sandwich Club Project Starter Code
+# Sandwich Club 
+App project for Udacity Android Developer Nanodegree course <br>
 
-## Project Overview
-In this project, you will complete the **Sandwich Club** app to
-show the details of each sandwich once it is selected.
+## Overview
+* Simple app to show the details of each sandwich once it is selected.
+* Design details view
+* Parse JSON data to produce Sandwich object and populate the UI
 
 ## Why this Project
 
